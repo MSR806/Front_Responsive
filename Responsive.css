@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta+Mahee:wght@300&display=swap');
+
+.TT-logo {
+    font-family: 'Abril Fatface', cursive;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem5 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem6 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("https://i.imgur.com/g4sgJgb.jpg");
+    height: 90vh;
+    background-size: cover;
+}
+
+.banner-bg-card {
+    text-align: center;
+    color: white;
+    padding: 20px;
+    background-color: RGB(0, 0, 0, 0.3);
+}
+
+.banner-heading {
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 75px;
+    font-weight: 300;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.au-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.au-text-heading {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.au-text-para {
+    font-size: 18px;
+    font-family: 'Mukta Mahee', sans-serif;
+    color: #6c757d;
+}
+
+.ser-top-section {
+    text-align: center;
+}
+
+.ser-main-h {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.ser-main-para {
+    font-family: 'Mukta Mahee', sans-serif;
+    color: #6c757d;
+    font-size: 18px;
+}
+
+.ser-card {
+    text-align: center;
+}
+
+.ser-card-img {
+    width: 80px;
+    height: 80px;
+}
+
+.ser-card-h {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.ser-card-para {
+    font-family: 'Mukta Mahee', sans-serif;
+    color: #6c757d;
+    font-size: 18px;
+}
